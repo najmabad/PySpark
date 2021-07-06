@@ -5,7 +5,7 @@
 </p>
 
 
-Roadmap and Materials to learn big data
+
 
 
 ## Content
