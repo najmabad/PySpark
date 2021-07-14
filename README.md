@@ -19,7 +19,7 @@
 - [x] [First Steps With PySpark and Big Data Processing (The Real Python)](https://github.com/najmabad/my-open-source-big-data-course/blob/main/first_steps_with_pyspark.md)
 
 ### Week 2
-- [x] [Lectures: Spark Basics (edX)](https://learning.edx.org/course/course-v1:UCSanDiegoX+DSE230x+1T2021/block-v1:UCSanDiegoX+DSE230x+1T2021+type@sequential+block@56608329f8fc42fc8fcaa5e49673ee3b/block-v1:UCSanDiegoX+DSE230x+1T2021+type@vertical+block@ca9dad9075534f1598561bd910964bf4)
+- [x] [Lectures: Spark Basics (edX)](https://github.com/najmabad/my-open-source-big-data-course/blob/main/spark_basics_edx.md)
 
 
 ## Others
